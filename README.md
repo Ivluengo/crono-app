@@ -2,7 +2,7 @@
 
 ## ¿Cómo usarlo?
 
-1. Añade el script en tu template html antes de ejecutarlo.
+1. Añade el script en tu template html antes de ejecutarlo descargandolo directamente desde aquí.
 
 ```html
 <script src="./Crono.js"></script>
