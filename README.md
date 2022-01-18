@@ -5,7 +5,7 @@
 1. Añade el script en tu template html antes de ejecutarlo.
 
 ```html
-<script src="./Crono.js"></script>
+<script src="https://raw.githubusercontent.com/Ivluengo/crono-app/main/Crono.js"></script>
 ```
 
 2. Crea unos maravillosos botones `html` que sirvan para ejecutar las acciones del `Crono()`.
